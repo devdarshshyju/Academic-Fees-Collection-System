@@ -1,0 +1,20 @@
+# 1. Byte-compiled / optimal / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 2. Operating System Files
+.DS_Store # macOS
+*~ # Common backup files
+
+# 3. Virtual Environment
+# If you used a virtual environment 
+# This prevents checking in all the dependencies
+venv/
+env/
+# 4. Local Data and Credentials 
+# This ignores your local data file, preventing conflicts 
+# and ensuring the evaluator starts with a clean slate.
+
+academic_records.json
