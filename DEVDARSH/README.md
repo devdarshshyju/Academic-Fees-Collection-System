@@ -85,4 +85,5 @@ Visual Demonstration
 Screenshots of the program's output demonstrating its functionality (menu, fee collection, summary report) are provided in the screenshots directory.
 
 Licensing
+
 This project is distributed under the MIT License.
