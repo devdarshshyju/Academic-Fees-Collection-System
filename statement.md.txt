@@ -1,0 +1,20 @@
+Project Statement: Academic Fees Collection and Admission Cell System
+1. Problem Statement
+The difficulty faced by academic institutions is relying on manual processes for managing student admissions and tracking course fee payments. This process is time-consuming, prone to human error in calculating outstanding balances, and lacks the capability for generating real-time, comprehensive financial reports.
+
+2. Scope of the Project
+The project's scope is strictly limited to developing a console-based application that handles the core administrative workflow: student registration, fee collection, and summary reporting. It utilizes file handling for local data persistence and is intended for use by admission and finance personnel.
+
+3. Target Users
+The primary target users are Admission and Finance Cell Operators within an educational institution who require a simple, reliable, and standardized tool to digitize student records and manage financial transactions accurately.
+
+4. High-Level Features
+Object-Oriented Data Model: Uses the Student class and AcademicSystem class to ensure structured, modular data management.
+
+Automated Admission: Registers new students and assigns a unique, sequential Admission ID.
+
+Secure Fee Processing: Processes deposits, ensures accurate balance calculation, and includes logic to prevent overpayment.
+
+Data Persistence: Reliable storage and retrieval of all records using a local JSON file.
+
+Financial Reporting: Calculation and display of the overall total fee collected and the total outstanding balance.
