@@ -1,0 +1,29 @@
+{
+    "next_id": 1004,
+    "students": [
+        {
+            "admission_id": 1001,
+            "name": "ANAMIKA BIJU",
+            "course": "BTECH",
+            "total_fee": 120000.0,
+            "paid_fee": 0,
+            "admission_status": "Admitted"
+        },
+        {
+            "admission_id": 1002,
+            "name": "RIYON JOY",
+            "course": "MCA",
+            "total_fee": 75000.0,
+            "paid_fee": 0,
+            "admission_status": "Admitted"
+        },
+        {
+            "admission_id": 1003,
+            "name": "DEVANSH RAJKUAR ROY",
+            "course": "BSC",
+            "total_fee": 50000.0,
+            "paid_fee": 4000.0,
+            "admission_status": "Admitted"
+        }
+    ]
+}
